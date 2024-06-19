@@ -5,4 +5,4 @@ std="hamid Akhtar";
 num = "one";
 console.log(std);
 console.log(`num new value is ${num}`);
- 
+console.log(typeOf(num));
