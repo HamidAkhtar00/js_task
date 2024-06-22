@@ -2,7 +2,7 @@
 ## Task of js
 
 ### This Task from Netbots
-#### Netbots is the Tech industry and Software House and Also a tech training center. It Offer different Courses such as Web-development, App-development, Digital Marketing, Graphic Designing and Other.I enrolled in Web Develpment Course (MERN) Stack
+#### Netbots is the Tech industry and Software House and Also a tech training center. It Offer different Courses such as Web-development, App-development, Digital Marketing, Graphic Designing and Other. I enrolled in Web Develpment Course (MERN) Stack
 
 ##### Netbots is Located at Skardu, Northern Area of Pakistan.
 
@@ -21,4 +21,4 @@
 - *Q5:* Operator (use post and pre increment + triple equal and doubles)
 - Try all types of function with different scenarios
 - *Q7:* Differentiate Rest, Spread and De_structure with different scenarios
-- *Q8:* Hit ``three end points`` with async await, promise, callback and fetch.
+- *Q8:* Hit ``three end points`` with async `await`, promise, callback and fetch.
