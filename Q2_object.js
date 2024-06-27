@@ -15,3 +15,4 @@ const obj3 = {
     age: 23,
     Email: "akhtar7866@gmail.com"
 }
+console.log(obj3);
