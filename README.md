@@ -6,8 +6,8 @@
 
 ##### Netbots is Located at Skardu, Northern Area of Pakistan.
 
-*------------------Assignment----------------*
-- *Q1:* Make three variables of different types and different values try to modify and generate output.
+*------------------Assignment-----------------*
+- *Q1:* Make three variables of different types and different values try to modify and generate output 
 
 - *Q2:* Make an object with **let** and two objects with **constant**. One of the constant object should accept new data but not modification and the other should not accept any change.
 
@@ -20,5 +20,5 @@
     
 - *Q5:* Operator (use post and pre increment + triple equal and doubles)
 - Try all types of function with different scenarios
-- *Q7:* Differentiate Rest, Spread and De_structure with different scenarios
+- *Q7:* Differentiate Rest, Spread and De_structure with different scenarios.
 - *Q8:* Hit ``three end points`` with async `await`, promise, callback and fetch.
