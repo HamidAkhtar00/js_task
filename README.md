@@ -13,7 +13,7 @@
 
 - *Q3:* Do same for array as well
 - *Q4:* ***Methods***
-    1. add some values to object must have data types and converts to array
+    1. add some values to object must have data types and convert to array
     2. convert values to uppercase
     3. store Boolean value of object in a variable as string
     4. now print the variables data type and it must be string
