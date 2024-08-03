@@ -6,7 +6,7 @@
 
 ##### Netbots is Located at Skardu, Northern Area of Pakistan.
 
-*-------------------Assignment-------------------*
+*-------------------Assignment--------------------*
 - *Q1:* Make three variables of different types and different values try to modify and generate output 
 
 - *Q2:* Make an object with **let** and two objects with **constant**. One of the constant object should accept new data but not modification and the other should not accept any change.
